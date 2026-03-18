@@ -42,9 +42,13 @@ Non-inverting amplifier:
 <img width="459" height="341" alt="image" src="https://github.com/user-attachments/assets/d7c90647-e012-4cef-978c-6ab6e9509d90" />
 
 ## TABULATION:
+<img width="1280" height="793" alt="image" src="https://github.com/user-attachments/assets/bc93437a-b6a2-40e4-94b2-689dc8448a9c" />
 
+## CALCULATION:
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/aa0fb82d-11d2-495a-8dc5-d044f93bd555" />
 
 ## GRAPH:
-
+<img width="952" height="1280" alt="image" src="https://github.com/user-attachments/assets/418701bf-5743-454a-b03a-57c663f97868" />
 
 ## RESULT:
+Thus, the non-inverting amplifiers are designed and successfully tested using Op-Amp IC741
