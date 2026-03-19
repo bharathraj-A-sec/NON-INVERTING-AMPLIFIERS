@@ -8,7 +8,7 @@ To design and construct a non-inverting amplifier.
 ## THEORY:
 Op-amp in open-loop configuration has a very few application because of its enormous open-loop gain. Controlled gain can be can be achieved by taking a part of output signal to the input with the help of feedback. This is called as Closed- Loop Configuration. The three basic types of closed-loop amplifier configuration are: 
 1. Inverting amplifier.
-2. Non-inverting amplifier.
+2. Non-inverting amplifier
 3. Differential amplifier.
 The entire configuration can be operated with either AC or DC input.
 
